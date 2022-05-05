@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chitachiamaka
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🌱 I’m currently learning Full-Stack Web Development, python and linux
 - 💞️ I’m looking to collaborate on with co-learner at CapacityBay
 - 📫 How to reach me chitachiamaka@gmail.com 
 - 
